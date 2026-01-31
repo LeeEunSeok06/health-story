@@ -1,8 +1,6 @@
 {
-    "name": "my-site",
+    "name": "health-story",
     "compatibility_date": "2026-01-28",
-    "assets": {
-      "directory": "./dist"
-    }
+    "pages_build_output_dir": "./dist"
   }
   
